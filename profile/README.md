@@ -1,6 +1,5 @@
 ![mono](https://raw.githubusercontent.com/magentacapital/.github/main/assets/mgnt_logo.svg)
 
-# **mgnt** - Magenta Capital
 We are Magenta Capital.
 <br>
 We are highly specialized proprietary trading firm.
