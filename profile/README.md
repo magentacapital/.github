@@ -1,7 +1,5 @@
 ![mono](https://raw.githubusercontent.com/magentacapital/.github/main/assets/mgnt_logo.svg)
 
-We are Magenta Capital.
+Magenta Capital is a specialized proprietary trading firm operating in digital asset market.
 <br>
-We are highly specialized proprietary trading firm.
-<br>
-We are currently working in the realm of the market making, in the cryptocurrency space. Our current niche is the market making of cryptocurrency vanilla options.
+Our strategies span liquidity provision, market making, and optimal execution — dynamically adapting to the changing market conditions.
